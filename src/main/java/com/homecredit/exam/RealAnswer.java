@@ -137,7 +137,7 @@ public class RealAnswer {
 		
 		for(Shape s:shapes) {
 			
-			System.out.println(s.getArea());
+			System.out.println(s);
 		}
 	}
 
